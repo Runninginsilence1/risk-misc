@@ -1,0 +1,4 @@
+*.zip
+resources/
+log/
+.idea/
