@@ -1,4 +1,4 @@
-module github.com/Runninginsilence1/risk-misc
+module github.com/Runninginsilence1/riskmisc
 
 go 1.21.5
 
