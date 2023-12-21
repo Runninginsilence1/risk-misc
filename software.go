@@ -1,4 +1,4 @@
-package util
+package riskmisc
 
 // IsSoftwareInstalled validates whether a linux software or a windows software is installed.
 // In Windows, it will check the Windows Registry.
